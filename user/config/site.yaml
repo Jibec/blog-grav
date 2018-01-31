@@ -1,0 +1,17 @@
+title: Grav
+default_lang: fr
+author:
+  name: 'Jean-Baptiste Holcroft'
+  email: jean-baptiste@holcroft.fr
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: '#l10n contributor, mostly for #fedora and #yunohost I do package some apps for #yunohost, the most interesting one is #weblate (a good translation platform)'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

@@ -1,0 +1,11 @@
+email: jean-baptiste@holcroft.fr
+fullname: jean-baptiste
+title: holcroft
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$U2elw6f86vuUlVdk8Ddq6.SkDDwci90z0SV.odBGTYtKhxvdgYpsK
